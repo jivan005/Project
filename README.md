@@ -1,5 +1,5 @@
 Project Name
-AI Life OS Your Personal Growth System
+AI Life OS Your Personal Growth Systemm
 
 Description
 This project is inspired by the idea of a personal growth system that helps users improve their skills, habits, and daily productivity. It combines study planning, coding practice, interview preparation, and progress tracking into a single system. The goal is to create a structured environment where users can grow step by step in different areas of life.
